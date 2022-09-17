@@ -6,6 +6,7 @@ public class Main {
         task3();
     }
 
+
     public static void task1() {
         {
             String firstName;
